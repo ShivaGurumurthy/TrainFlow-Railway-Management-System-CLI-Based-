@@ -1,0 +1,18 @@
+TrainFlow – Railway Management System
+
+TrainFlow is a simple yet functional Railway Management System built entirely on the command line. This project helped me understand core Java concepts like access specifiers, classes, and objects while focusing on modularity for future improvements.
+
+Features
+	•	Trains – Stores details like train number, name, source, destination, total seats, and available seats.
+	•	Booking – Ensures seat availability before confirming reservations.
+	•	Stations – Manages railway stations and train routes.
+	•	Search – Lets users find trains based on source and destination.
+	•	Booking History – Keeps a record of past reservations for easy reference.
+
+Why TrainFlow?
+
+This project follows a modular approach, making it easier to maintain, extend, or refactor as needed. It’s not just about building a working system—it’s about writing clean, reusable, and structured code.
+
+Contribution
+
+You cannot tweak the current file directly, but you’re free to fork the repository and make any modifications you’d like. If you have suggestions or spot any mistakes, feel free to let me know.
